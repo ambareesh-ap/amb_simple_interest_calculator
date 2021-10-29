@@ -1,1 +1,1 @@
-# amb_simple_interest_calculator
+# coding-project-template
