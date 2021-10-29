@@ -3,13 +3,10 @@ body {
 	background-color: black; 
 	font-family: arial;
 }
-
 h1 {
 	color: gray; 
 	font-family: verdana;
 }
-
-/* Center the div in the middle of the screen */
 .maindiv {
 
 	background-color: white;
@@ -22,24 +19,3 @@ h1 {
   	left: 50%;
   	transform: translate(-50%, -50%);
 }
-
-
-
-/* Table spacing */
-td {
-  padding: 5px;
-  text-align: left;
-}
-
-/*  Firefox */
-input[type=number] {
-  -moz-appearance: textfield;
-}
-
-/*Stop the resizing on the slider span */
-.fixedrate {
-  display: inline-block;
-  width: 55px;	
-}
-
-
